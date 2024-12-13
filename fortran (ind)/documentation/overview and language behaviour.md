@@ -16,7 +16,7 @@ end code 1
 ```
 
 
-## Data type implicity
+## Data type explicity
 Tipe data di fortran dideklarasikan secara implicit maupun eksplisit dimana kita bisa menentukan apakah tipe data tiap variabel ditentukan di awal atau tidak.
 contoh:
 ```

@@ -6,7 +6,7 @@ array adalah sebuah tipe data atau tempat penyimpanan yang hanya menyimpan 1 jen
 
 deklarasi array memiliki sintaks sebagai berikut:
 ```
-<variable_type>::dimension(<ukuran_array>,...banyak_dimensi)::array
+<variable_type>,dimension(<ukuran_array>,...banyak_dimensi)::array
 ```
 
 contoh:
